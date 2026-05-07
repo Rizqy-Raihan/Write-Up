@@ -94,6 +94,8 @@ Static and dynamic analysis result can picturing on below
 
 **<img width="722" height="389" alt="dinamis" src="https://github.com/user-attachments/assets/dc8fd9a9-fdef-4c71-a040-c5f8adfa4a4d" />**
 
+Dynamic analysis was performed on the file malware.pdf, which contains an embedded file. After being analyzed using ANY.RUN, the embedded content was successfully detected through the platform’s on-screen operating system activity monitoring, where all system interactions were observed in real time via the web-based sandbox environment.
+
 **Findings:**
 
 
